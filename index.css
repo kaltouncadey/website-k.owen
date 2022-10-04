@@ -1,0 +1,167 @@
+.logo img{
+          width: 100%;
+          height: 100%;
+}
+.logo{
+          width: 80px;
+          height: 50px;
+          margin-top: 1rem;
+          
+}
+.guudahn{
+          display: flex;
+          margin: 2rem;
+          
+          
+}
+.head{
+          font-family: extrabold;
+          margin-left: -1em;
+}
+.spn{
+          font-weight: bold;
+          color: grey;
+}
+.meuns{
+          display: flex;
+          
+ }
+.guud{
+          display: flex;
+          box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+          border-radius: 30px;
+}
+.navs,ul li {
+         display: flex;
+         gap: 2rem;
+         align-items: center;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+ul,li {
+          display: flex;
+          gap: 4rem;
+          font-family: Georgia;
+          font-size: large;
+}
+ 
+          /* . ul,li home { */
+                    /* text-decoration: underline; */
+
+          /* } */
+ li :hover {
+         background-color: yellow; }
+
+ .butons{
+          
+          background-color: #ff5400;
+          border: none;
+          border-radius: 1em;
+          color: whitesmoke;
+          padding: 1em;
+          text-align: center;
+          text-decoration: none;
+          margin-top: 4em;
+          margin-left: 28rem;
+          height: 13px;
+          gap: 1px;
+ }        
+
+ .one{
+          margin-top: 3em;
+          color: black;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          font-size: larger;
+          font-weight: 300;
+ }
+
+ .header{
+          font-weight: 600;
+          margin: 4em;
+          font-size:larger;
+          font-weight: bold;
+          
+          
+ }
+
+ .spr{
+     color: grey;
+     font-family: extrabold;
+     font-weight: bold;
+
+ }
+
+ .qoraalo,img{
+        display: flex;
+        gap: 12px;
+ }
+ .qoraalo{
+
+ }
+ .text{
+          margin-top: -13em;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          color: black;
+          font-weight:500;
+          font-size: 17px;
+ }
+ 
+ .sawir{
+    margin-left: 20%;
+    margin-top: 2rem;
+ }
+
+ .btnss{
+          background-color: #ff5400;
+          width: 7%;
+          text-align: center;
+          border-radius: 12px;
+          padding: 15px;
+          color: whitesmoke;
+          font-size: larger;
+          margin: 1em;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          text-shadow: 2px;
+
+ }
+
+.picture img{
+    width: 60px;
+    height: 60px;
+    border-radius: 2rem;
+    background-color: #ff8500; 
+}
+
+
+.tiroyin{
+     margin: 15rem;
+     display: flex;
+     
+}
+
+.guud{
+    /* transform: translate(5px); */
+
+}
+
+.tiro{
+    margin-left: 1rem;
+
+}
+.qoral{
+    margin-right: -1rem;
+    align-items: center;
+}
+
+.userss{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width: 100px;
+    
+}
+
+/* .tiroyin{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+} */
